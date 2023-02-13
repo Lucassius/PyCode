@@ -1,2 +1,2 @@
 # PyCode
--Códigos feitos usando exclusivamente Python e algumas de suas bibliotecas-
+<Códigos feitos usando Python e outros códigos usando Pyscript e implementando Python em páginas web>
